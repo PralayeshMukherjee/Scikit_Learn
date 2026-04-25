@@ -18,7 +18,7 @@ Here, I:
 
 The goal is to build a **strong foundation in Machine Learning** through consistent practice.
 
----
+-----
 
 ## ⚙️ Tech Stack
 
