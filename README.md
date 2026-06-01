@@ -154,7 +154,7 @@ Feel free to fork or raise issues.
 * 💼 LinkedIn: *Add your link*
 * 💻 GitHub: https://github.com/PralayeshMukherjee
 
----
+-------
 
 ## ⭐ Support
 
