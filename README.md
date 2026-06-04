@@ -42,7 +42,7 @@ Scikit_Learn/
 ├── models/               # Saved trained models
 ├── outputs/              # Graphs / results
 └── README.md
-```
+`````
 
 > ⚠️ Note: This project is developed using **VS Code**, so most code is written in `.py` files instead of notebooks.
 
