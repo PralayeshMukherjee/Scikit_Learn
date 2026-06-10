@@ -29,7 +29,7 @@ The goal is to build a **strong foundation in Machine Learning** through consist
 * 📈 Matplotlib / Seaborn
 * 🧑‍💻 VS Code (Development Environment)
 
----
+------
 
 ## 📂 Project Structure
 
