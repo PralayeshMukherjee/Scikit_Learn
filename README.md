@@ -33,7 +33,7 @@ The goal is to build a **strong foundation in Machine Learning** through consist
 
 ## 📂 Project Structure
 
-```
+``````
 Scikit_Learn/
 │
 ├── data/                 # Datasets used in projects
