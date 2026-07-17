@@ -3,7 +3,7 @@
 Welcome to my Machine Learning journey using **Scikit-Learn** 🚀
 This repository contains all my hands-on practice, experiments, and concepts that I’ve learned while exploring Machine Learning.
 
------------------
+----------------
 
 ## 📌 About This Repository
 
@@ -18,7 +18,7 @@ Here, I:
 
 The goal is to build a **strong foundation in Machine Learning** through consistent practice.
 
------
+--------
 
 ## ⚙️ Tech Stack
 
@@ -29,11 +29,11 @@ The goal is to build a **strong foundation in Machine Learning** through consist
 * 📈 Matplotlib / Seaborn
 * 🧑‍💻 VS Code (Development Environment)
 
----
+------
 
 ## 📂 Project Structure
 
-```
+``````
 Scikit_Learn/
 │
 ├── data/                 # Datasets used in projects
@@ -42,7 +42,7 @@ Scikit_Learn/
 ├── models/               # Saved trained models
 ├── outputs/              # Graphs / results
 └── README.md
-```
+`````
 
 > ⚠️ Note: This project is developed using **VS Code**, so most code is written in `.py` files instead of notebooks.
 
@@ -154,7 +154,7 @@ Feel free to fork or raise issues.
 * 💼 LinkedIn: *Add your link*
 * 💻 GitHub: https://github.com/PralayeshMukherjee
 
----
+-------
 
 ## ⭐ Support
 
